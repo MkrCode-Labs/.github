@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="MkrCode-Labs Banner" width="100%">
+  <img src="banner.v2.png" alt="MkrCode-Labs Banner" width="100%">
 </p>
 
 ## Visión General
